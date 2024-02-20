@@ -1,26 +1,121 @@
-<h1 align="center">Hi 👋, I'm Adeel Ahmed Qureshi</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadee&label=Profile%20views&color=0e75b6&style=flat" alt="itsadee" /> </p>
+# Getting Started with Adeels's Calculator
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadee" alt="itsadee" /></a> </p>
+## Introduction
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Testing the the portal and playground
 
-- 🌱 I’m currently learning **Kubernetes,Golang,DevOps**
+## Building
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsAdee](https://github.com/itsAdee)
+### Requirements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adeel-ahmed-qureshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeel-qureshi" height="30" width="40" /></a>
-</p>
+The SDK relies on **Node.js** and **npm** (to resolve dependencies). It also requires **Typescript version 3.9+**. You can download and install Node.js and [npm](https://www.npmjs.com/) from [the official Node.js website](https://nodejs.org/en/download/).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+> **NOTE:** npm is installed by default when Node.js is installed.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsadee&show_icons=true&locale=en&layout=compact" alt="itsadee" /></p>
+### Verify Successful Installation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadee&show_icons=true&locale=en" alt="itsadee" /></p>
+Run the following commands in the command prompt or shell of your choice to check if Node.js and npm are successfully installed:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsadee&" alt="itsadee" /></p>
+* Node.js: `node --version`
+
+* npm: `npm --version`
+
+![Version Check](https://apidocs.io/illustration/typescript?workspaceFolder=AdeelsSCalculator&step=versionCheck)
+
+### Install Dependencies
+
+- To resolve all dependencies, go to the **SDK root directory** and run the following command with npm:
+
+```bash
+npm install
+```
+
+- This will install all dependencies in the **node_modules** folder.
+
+![Resolve Dependencies](https://apidocs.io/illustration/typescript?workspaceFolder=AdeelsSCalculator&workspaceName=adeels-s-calculatorlib&step=resolveDependency)
+
+## Installation
+
+The following section explains how to use the generated library in a new project.
+
+### 1. Initialize the Node Project
+
+- Open an IDE/text editor for JavaScript like Visual Studio Code. The basic workflow presented here is also applicable if you prefer using a different editor or IDE.
+
+- Click on **File** and select **Open Folder**. Select an empty folder of your project, the folder will become visible in the sidebar on the left.
+
+![Open Folder](https://apidocs.io/illustration/typescript?step=openProject)
+
+- To initialize the Node project, click on **Terminal** and select **New Terminal**. Execute the following command in the terminal:
+
+```bash
+npm init --y
+```
+
+![Initialize the Node Project](https://apidocs.io/illustration/typescript?step=initializeProject)
+
+### 2. Add Dependencies to the Client Library
+
+- The created project manages its dependencies using its `package.json` file. In order to add a dependency on the *Adeels's CalculatorLib* client library, double click on the `package.json` file in the bar on the left and add the dependency to the package in it.
+
+![Add AdeelsSCalculatorlib Dependency](https://apidocs.io/illustration/typescript?workspaceFolder=AdeelsSCalculator&workspaceName=adeels-s-calculatorlib&step=importDependency)
+
+- To install the package in the project, run the following command in the terminal:
+
+```bash
+npm install
+```
+
+![Install AdeelsSCalculatorlib Dependency](https://apidocs.io/illustration/typescript?step=installDependency)
+
+## Initialize the API Client
+
+**_Note:_** Documentation for the client can be found [here.](doc/client.md)
+
+The following parameters are configurable for the API Client:
+
+| Parameter | Type | Description |
+|  --- | --- | --- |
+| `timeout` | `number` | Timeout for API calls.<br>*Default*: `0` |
+| `httpClientOptions` | `Partial<HttpClientOptions>` | Stable configurable http client options. |
+| `unstableHttpClientOptions` | `any` | Unstable configurable http client options. |
+
+### HttpClientOptions
+
+| Parameter | Type | Description |
+|  --- | --- | --- |
+| `timeout` | `number` | Timeout in milliseconds. |
+| `httpAgent` | `any` | Custom http agent to be used when performing http requests. |
+| `httpsAgent` | `any` | Custom https agent to be used when performing http requests. |
+| `retryConfig` | `Partial<RetryConfiguration>` | Configurations to retry requests. |
+
+### RetryConfiguration
+
+| Parameter | Type | Description |
+|  --- | --- | --- |
+| `maxNumberOfRetries` | `number` | Maximum number of retries. <br> *Default*: `0` |
+| `retryOnTimeout` | `boolean` | Whether to retry on request timeout. <br> *Default*: `true` |
+| `retryInterval` | `number` | Interval before next retry. Used in calculation of wait time for next request in case of failure. <br> *Default*: `1` |
+| `maximumRetryWaitTime` | `number` | Overall wait time for the requests getting retried. <br> *Default*: `0` |
+| `backoffFactor` | `number` | Used in calculation of wait time for next request in case of failure. <br> *Default*: `2` |
+| `httpStatusCodesToRetry` | `number[]` | Http status codes to retry against. <br> *Default*: `[408, 413, 429, 500, 502, 503, 504, 521, 522, 524]` |
+| `httpMethodsToRetry` | `HttpMethod[]` | Http methods to retry against. <br> *Default*: `['GET', 'PUT']` |
+
+The API client can be initialized as follows:
+
+```ts
+const client = new Client({
+  timeout: 0,
+});
+```
+
+## List of APIs
+
+* [Adeel S Calculator](doc/controllers/adeel-s-calculator.md)
+
+## Classes Documentation
+
+* [ApiResponse](doc/api-response.md)
+* [ApiError](doc/api-error.md)
+
