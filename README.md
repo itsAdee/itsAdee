@@ -1,23 +1,66 @@
 <h1 align="center">Hi 👋, I'm Adeel Ahmed Qureshi</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A Backend & DevOps Engineer passionate about scalable and optimized software solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadee&label=Profile%20views&color=0e75b6&style=flat" alt="itsadee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsadee" alt="itsadee" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **FastAPI, DevOps, 
-Photogrammetry, Fastify**
-
-- 👨‍💻 My showcase projects are available at [https://github.com/TrioDev](https://github.com/orgs/TrioDevLabs/repositories)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adeel-ahmed-qureshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeel-qureshi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsadee&label=Profile%20views&color=0e75b6&style=flat" alt="itsadee" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+- 🏗️ **Backend & DevOps Engineer** focused on scalable architectures, microservices, and automation.  
+- 🌱 Currently learning **FastAPI, DevOps, Kubernetes, Fastify, and Photogrammetry**.  
+- 📂 Open-source contributor with PRs in [WinGet](https://github.com/microsoft/winget-pkgs/pulls?q=is%3Apr+author%3AItsAdee+is%3Aclosed) & [Genome Workbench](https://github.com/workbenchdev/Workbench/pulls?q=is%3Apr+author%3AItsAdee+is%3Aclosed).  
+- 🔭 My **showcase projects** are available at [TrioDev Labs](https://github.com/orgs/TrioDevLabs/repositories).  
 
+---
 
+## 💼 Work Experience
+
+### **Back-End Engineer (Part-Time) - Alfabolt (Nov 2024 - Present)**
+- Migrating **Reimagin** from AWS Serverless to a **Kubernetes-based microservices architecture**.
+- Optimized API performance with **Fastify**, reducing latency by **150%**.
+- **Tech Stack:** TypeScript, Fastify, Kubernetes, Docker, NATS JetStream.
+
+### **Software Engineer Intern - APIMatic (Feb 2024 - Aug 2024)**
+- Built **automated end-to-end SDK tests** for **PayPal & Verizon**, achieving **100% coverage**.
+- Created **CI/CD pipelines** for SDK publishing across **PyPI & NuGet**.
+- Developed **custom developer portals** with guided onboarding, reducing time by **95%**.
+- **Tech Stack:** Playwright, TypeScript, Java, Python, FastAPI, GitHub Actions, JUnit.
+
+### **Software Engineer Intern - Al-Basirr Technologies (Jun 2023 - Jul 2023)**
+- Developed a **scalable video conferencing app** supporting **1,000+ participants**.
+- **Tech Stack:** Flutter, Firebase, WebRTC, Livekit.
+
+### **Freelance AI Engineer (Jun 2024 - Oct 2024)**
+- Designed a **multi-agent workflow** for **text & image generation**, optimizing energy consumption.
+- Integrated **LangGraph-based self-improving agents** with **voice support**.
+- **Tech Stack:** LangGraph, Qdrant, FastAPI, Streamlit.
+
+### **Final Year Project - Augmentize**
+- Built an **eCommerce 3D model creation platform** with **AR visualization**.
+- Implemented **photogrammetry pipelines**, analytics, and **plugin support** for vendors.
+- **Tech Stack:** FastAPI, RabbitMQ, Minio, Docker, React Native, React, Material UI.
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qD_FlJLlr0to92J-wyiwaMv-vCUSOlzI0h8sr1FtMzN5Ro3tsGmlY3XAEFJ1pimcaRU&usqp=CAU" alt="Rust" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKs-tV1OZFQYdi6TQ-fdJ-LuwLDyQ9-0tJlQ&s" alt="Flask" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB-tLy2TYkq6jNCcfYZOqGbEpCiHonRJxTgQ&s" alt="Material 3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/73504361?s=280&v=4" alt="Qdrant" width="40" height="40"/> </p>
+
+### **🧑‍💻 Tech Stack**
+- **Back-End:** FastAPI, Express, Fastify, Flask, Django  
+- **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, RabbitMQ, Minio, NATS JetStream  
+- **Databases:** PostgreSQL, MongoDB, Firebase, Qdrant  
+- **AI & ML:** LangGraph, LlamaIndex, Scikit-Learn  
+- **Testing:** Playwright, JUnit, Jest  
+
+---
+
+## 📬 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/adeel-ahmed-qureshi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeel-qureshi" height="30" width="40" />
+  </a>
+  <a href="mailto:adeelahmedqureshi02@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" />
+  </a>
+  
+</p>
