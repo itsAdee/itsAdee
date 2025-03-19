@@ -15,7 +15,7 @@
 
 ## 💼 Work Experience
 
-### **Back-End Engineer (Part-Time) - Alfabolt (Nov 2024 - Present)**
+### **Back-End Engineer - Alfabolt (Nov 2024 - Present)**
 - Migrating **Reimagin** from AWS Serverless to a **Kubernetes-based microservices architecture**.
 - Optimized API performance with **Fastify**, reducing latency by **150%**.
 - **Tech Stack:** TypeScript, Fastify, Kubernetes, Docker, NATS JetStream.
