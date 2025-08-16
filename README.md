@@ -17,7 +17,7 @@
 
 ### **Back-End Engineer - Alfabolt (Nov 2024 - Present)**
 - Building an AI-driven onboarding agent using LangGraph and FastAPI, automating early-stage inbound lead handling; deployed services on AWS App Runner to ensure scalable and cost-efficient delivery
-- Led the migration of the company microservice from AWS SAM to a Kubernetes-based architecture on AWS EKS, achieving a 60% reduction in latency by eliminating cold starts and removing overheads and wrappers to streamline performance.
+- Led the migration of the company microservice (for reimag.in) from AWS SAM to a Kubernetes-based architecture on AWS EKS, achieving a 60% reduction in latency by eliminating cold starts and removing overheads and wrappers to streamline performance.
 - **Tech Stack:** AWS EKS , Fastify, Kubernetes, NATS Jet Stream, Langgraph, FastAPI, App Runner, PostgreSQL
 
 ### **Software Engineer Intern - APIMatic (Feb 2024 - Aug 2024)**
